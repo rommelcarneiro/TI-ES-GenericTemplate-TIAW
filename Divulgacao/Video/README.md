@@ -1,4 +1,4 @@
-# Divulgação: Vídeo
+# Divulgação: Vídeo do Projeto
 
-Dentro desta pasta inclua arquivos de vídeo produzidos para divulgação do projeto e seus resutados.
+Nesta pasta inclua arquivos de vídeo produzidos para divulgação do projeto e seus resutados.
 

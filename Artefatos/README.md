@@ -10,7 +10,7 @@ Por exemplo, pode-se criar um diretório "atas", que seria descrito da seguinte 
 	* **Ata_xx_ago_2020.docx**: Ata de reunião do dia xx de agosto de 2020.
 
 Pode-se também criar um diretório "canvas", que seria descrito da seguinte forma:
-* `/canvas
+* `/canvas`
 	* **BusinessModelCanvas.pdf**: Canvas do modelo de negócios.
 
-Assim, sucessivamente para outros artefatos como "processos" e "der", etc.
+Assim, sucessivamente para outros artefatos como `processos` e `DER`, etc.
